@@ -99,6 +99,7 @@
     <modules>
         <module>app</module>
         <module>test</module>
+        <module>web</module>
     </modules>
 
     <profiles>

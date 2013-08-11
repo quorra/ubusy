@@ -7,8 +7,8 @@
     <packaging>apk</packaging>
     <name>U-busy tests</name>
     <parent>
-        <groupId>com.github.r351574nc3.packtpub.junit</groupId>
-        <artifactId>junit-example-parent</artifactId>
+        <groupId>com.github.quorra.android.ubusy</groupId>
+        <artifactId>ubusy-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
